@@ -1,12 +1,5 @@
 # AuSRoS Control Lectorial 3
 In this lectorial, we will be going through some examples that make use of several open-source robotics packages.
-
-To begin, clone this repository (<b>This will need to be changed when taking it to the AUSROS repo</b>)
-```
-git clone https://github.com/dazzmo/ausros_demo
-cd ausros_demo
-```
-
 For convenience, we will be using [Anaconda]() to manage and collect the necessary packages and install them in a container, so that we can run them in an environment.
 
 # Installing Anaconda
