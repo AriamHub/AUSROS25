@@ -51,12 +51,12 @@ Presented by Feras Dayoub and Peyman Moghadam
 * D2: [Lidar Learning]()
 * D3: [Robotic Foundation Models]()
 
-
 ---
 ## Science Deep Dives
 
 * Science DD1: [Human-Robot Interaction](), Laurianne Sitbon, QUT
-* Science DD2: [Uncertainty](), Tom Drummond, University of Melbourne
+* Science DD2: To Be Confirmed
+* Science DD3: [Uncertainty(?)](), Tom Drummond, University of Melbourne
 
 ---
 ## Systems Deep Dives
