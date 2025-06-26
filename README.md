@@ -21,7 +21,7 @@ Details coming soon.
 
 ---
 ## Track A: Sensing and Perception
-Presented by Donald Dansereau, and Thierry Peynot
+Presented by Donald Dansereau and Thierry Peynot
 
 * A1: [Sensing]()
 * A2: [Localisation and Mapping]()
