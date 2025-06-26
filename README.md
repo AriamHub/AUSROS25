@@ -41,47 +41,46 @@ Links to slide decks and information about the lectures will appear below.
 
 ---
 ## Track A: Sensing and Perception
-Presented by Mitch Bryson, Donald Dansereau, and Thierry Peynot
+Presented by Donald Dansereau, and Thierry Peynot
 
-* A1: [Sensors](SensingAndPerception/LecA1-Sensors.pdf)
-* A2: [Localisation and Mapping](SensingAndPerception/AUSROS_localmapping_2024_slides.pdf)
-* A3: [Sensor Fusion](SensingAndPerception/LecA3-SensorFusion.pdf)
+* A1: [Sensing]()
+* A2: [Localisation and Mapping]()
+* A3: [Sensor Data Fusion]()
 
 ---
 ## Track B: Reasoning and Planning
-Presented by Rahul Shome, Patrik Haslum, and Hanna Kurniawati
+Presented by Jen Jen Chung, Rahul Shome, and Hanna Kurniawati
 
-* B1: [Basics in reasoning and planning](ReasoningAndPlanning/B1.pdf)
-* B2: [Manipulation Planning](ReasoningAndPlanning/B2.pdf)
-* B3: [Planning under Uncertainty](ReasoningAndPlanning/B3.pdf)
-
+* B1: [Motion Planning Essentials]()
+* B2: [Planning under Uncertainty]()
+* B3: [Task and Motion Planning]()
 
 ---
 ## Track C: Control and Estimation
-Presented by Guodong Shi and Ian Manchester
+Presented by Ian Manchester
 
-* C1: [Single-Joint Control](ControlAndEstimation/LecC1-Control.pdf) and Simulink example [flexible_joint.slx](ControlAndEstimation/flexible_joint.slx)
-* C2: [Rigid-Body State Estimation](ControlAndEstimation/LecC2-Estimation.pdf)
-* C3: [Multi-Body Robot Control](ControlAndEstimation/LecC3-MultiBody.pdf)
+* C1: [Single-Joint Control]()
+* C2: [Rigid-Body State Estimation]()
+* C3: [Multi-Body Robot Control]()
 
 ---
 ## Track D: Robotic Learning
-Presented by Feras Dayoub and Tat-Jun Chin
+Presented by Feras Dayoub and Peyman Moghadam
 
-* D1: [Why Simulation in Robot Learning?](RoboticLearning/D1.pdf)
-* D2: [Bridging the Reality Gap](RoboticLearning/D2.pdf)
-* D3: [Foundation Mdels in Robotics](RoboticLearning/D3.pdf)
+* D1: [Robot Learning Essentials]()
+* D2: [Lidar Learning]()
+* D3: [Robotic Foundation Models]()
+
 
 ---
 ## Science Deep Dives
 
-* Science DD1: [Drones in Cluttered, Open-Ended Environments](ScienceDeepDives/DD1-StefanLeutenegger-Drones.pdf), Stefan Leutenegger, TUM
-* Science DD2: [Human-Robot Interaction](ScienceDeepDives/DD2-DanaKulic-HumanRobotInteraction.pdf), Dana Kulić, Monash University
-* Science DD3: [Uncertainty](ScienceDeepDives/DD3-TomDrummond-Uncertainty.pdf), Tom Drummond, University of Melbourne
+* Science DD1: [Human-Robot Interaction](), Laurianne Sitbon, QUT
+* Science DD2: [Uncertainty](), Tom Drummond, University of Melbourne
 
 ---
 ## Systems Deep Dives
 
-* Systems DD1: [Agriculutral Robotics](SystemsDeepDives/DD1-SalahSukkarieh-Agriculture.pdf), Salah Sukkarieh, University of Sydney 
-* Systems DD2: [Intelligent Transportation Systems](SystemsDeepDives/DD2-StewartWorrall-IntelligentTransportSystems.pdf), Stewart Worrall, University of Sydney 
-* Systems DD3: [Marine Robotics](SystemsDeepDives/DD3-TooheyAndBillings-Marine.pdf), Gideon Billings and Lachlan Toohey, University of Sydney
+* Systems DD1: [The Roo-ver mission](), Ben Sorensen, ELO2 
+* Systems DD2: [CSIRO SubT Challenge](), Navinda Kottege, CSIRO
+* Systems DD3: [Soft Robotics](), Krishna Digumarti, QUT
