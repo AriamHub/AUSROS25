@@ -5,30 +5,9 @@
 UNDER CONSTRUCTION
 
 ---
-## Detailed Program
+# Program and location
 
-|               | July 2        | July 3        | July 4        | July 5       |
-| ------------- | ------------- | ------------- | ------------- | ------------ |
-|               | Day 1         | Day 2         | Day 3         | Day 4        |
-| 09:00 - 10:00 | Welcome       | Systems DD1   | Systems DD2   | Systems DD3  |
-| 10:00 - 10:15 | Break         | Break         | Break         | Break        |
-| 10:15 - 11:15 | Lectorial A1  | Lectorial B1  | Lectorial A2  | Lectorial B3 |
-| 11:15 - 11:30 | Break         | Break         | Break         | Break        |
-| 11:30 - 12:30 | Lectorial D1  | Lectorial C2  | Lectorial B2  | Lectorial C3 |
-| 12:30 - 13:30 | Lunch         | Lunch         | Lunch         | Lunch        |
-| 13:30 - 14:30 | Lectorial C1  | Lectorial D2  | Lectorial A3  | Lectorial D3 |
-| 14:30 - 14:45 | Break         | Break         | Break         | Break        |
-| 14:45 - 15:45 | Lab Tour      | Science DD1   | Science DD2   | Science DD3  |
-| 15:45 - 16:00 | Break         | Break         | Break         | Break        |
-| 16:00 - 17:00 | Social Event:<br> Team Trivia!| Panel         | ROS Hands-on | Closing      |
-| 17:00 - 18:00 | Social Event:<br> Team Trivia!|               |              | Closing      |
-| 18:00 -       | Social Outing | Social Outing | Banquet       |              |
-|               |               |               | Banquet       |              |
-
----
-# Location
-
-Please see the [AUSROS Website](https://ariamhub.com/event/ausros/), a map to the lecture hall location is under "Attending".
+Please see the [AUSROS Website](https://ariamhub.com/event/ausros/) for the detailed program and location
 
 ---
 # Lectures
@@ -38,6 +17,7 @@ Links to slide decks and information about the lectures will appear below.
 ---
 # Workshop
 
+Details coming soon.
 
 ---
 ## Track A: Sensing and Perception
