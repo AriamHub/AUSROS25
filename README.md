@@ -31,7 +31,7 @@ Presented by Donald Dansereau and Thierry Peynot
 ## Track B: Reasoning and Planning
 Presented by Jen Jen Chung, Rahul Shome, and Hanna Kurniawati
 
-* B1: [Motion Planning Essentials]()
+* B1: [Motion Planning Essentials](ReasoningAndPlanning/B1_Motion_planning_essentials.pdf)
 * B2: [Planning under Uncertainty]()
 * B3: [Task and Motion Planning]()
 
