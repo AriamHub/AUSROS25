@@ -23,7 +23,7 @@ Details coming soon.
 ## Track A: Sensing and Perception
 Presented by Donald Dansereau and Thierry Peynot
 
-* A1: [Sensing]()
+* A1: [Sensing](SensingAndPerception/LecA1-Sensing.pdf)
 * A2: [Localisation and Mapping]()
 * A3: [Sensor Data Fusion]()
 
