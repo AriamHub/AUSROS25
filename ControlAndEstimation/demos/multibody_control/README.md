@@ -1,6 +1,6 @@
 # AuSRoS Control Lectorial 3
 In this lectorial, we will be going through some examples that make use of several open-source robotics packages.
-For convenience, we will be using [Anaconda]() to manage and collect the necessary packages and install them in a container, so that we can run them in an environment.
+For convenience, we will be using [Anaconda](https://www.anaconda.com/) to manage and collect the necessary packages and install them in a container, so that we can run them in an environment.
 
 # Installing Anaconda
 Anaconda allows us to create an environment where all our necessary packages are located and accessible. If you do not have anaconda on your machine, you can install it by following the information [here](https://docs.anaconda.com/anaconda/install/).
