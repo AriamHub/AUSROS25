@@ -48,7 +48,7 @@ Presented by Ian Manchester
 Presented by Feras Dayoub and Peyman Moghadam
 
 * D1: [Robot Learning Essentials]()
-* D2: [Lidar Learning]()
+* D2: [PointCloud Learning]()
 * D3: [Robotic Foundation Models]()
 
 ---
