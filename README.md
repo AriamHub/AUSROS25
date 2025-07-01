@@ -32,7 +32,7 @@ Presented by Donald Dansereau and Thierry Peynot
 Presented by Jen Jen Chung, Rahul Shome, and Hanna Kurniawati
 
 * B1: [Motion Planning Essentials](ReasoningAndPlanning/B1_Motion_planning_essentials.pdf)
-* B2: [Planning under Uncertainty]()
+* B2: [Planning under Uncertainty](ReasoningAndPlanning/B2_Uncertainty.pdf)
 * B3: [Task and Motion Planning]()
 
 ---
@@ -47,15 +47,15 @@ Presented by Ian Manchester
 ## Track D: Robotic Learning
 Presented by Feras Dayoub and Peyman Moghadam
 
-* D1: [Robot Learning Essentials]()
+* D1: [Robot Learning Essentials](RobotLearning/D1-Robot-Learning-Essentials.pdf)
 * D2: [PointCloud Learning]()
 * D3: [Robotic Foundation Models]()
 
 ---
 ## Science Deep Dives
 
-* Science DD1: [Human-Robot Interaction](), Laurianne Sitbon, QUT
-* Science DD2: To Be Confirmed
+* Science DD1: [Human-Robot Interaction](ScienceDeepDives/DD1-HRI.pdf), Laurianne Sitbon, QUT
+* Science DD2: [Visual Place Recognition](ScienceDeepDives/PlaceRecognition.pdf), Tobi Fischer, QUT
 * Science DD3: [Uncertainty(?)](), Tom Drummond, University of Melbourne
 
 ---
