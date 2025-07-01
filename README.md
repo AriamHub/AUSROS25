@@ -17,7 +17,7 @@ Links to slide decks and information about the lectures will appear below.
 ---
 # Workshop
 
-Details coming soon.
+[TurtleBot3 Challenge](Workshop/AUSROS_TurtleBot3_Challenge_Task.pdf)
 
 ---
 ## Track A: Sensing and Perception
