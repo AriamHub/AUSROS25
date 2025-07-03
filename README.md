@@ -19,6 +19,8 @@ Links to slide decks and information about the lectures will appear below.
 
 [TurtleBot3 Challenge](Workshop/AUSROS_TurtleBot3_Challenge_Task.pdf)
 
+[LLM's for ROS](Workshop/LLM's%20for%20ROS.pdf)
+
 ---
 ## Track A: Sensing and Perception
 Presented by Donald Dansereau and Thierry Peynot
