@@ -26,7 +26,7 @@ Links to slide decks and information about the lectures will appear below.
 Presented by Donald Dansereau and Thierry Peynot
 
 * A1: [Sensing](SensingAndPerception/LecA1-Sensing.pdf)
-* A2: [Localisation and Mapping]()
+* A2: [Localisation and Mapping](SensingAndPerception/A2-LocalisationMapping.pdf)
 * A3: [Sensor Data Fusion]()
 
 ---
