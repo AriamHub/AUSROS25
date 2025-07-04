@@ -35,7 +35,7 @@ Presented by Jen Jen Chung, Rahul Shome, and Hanna Kurniawati
 
 * B1: [Motion Planning Essentials](ReasoningAndPlanning/B1_Motion_planning_essentials.pdf)
 * B2: [Planning under Uncertainty](ReasoningAndPlanning/B2_Uncertainty.pdf)
-* B3: [Task and Motion Planning]()
+* B3: [Task and Motion Planning](ReasoningAndPlanning/B3-Task-and-Motion-Planning.pdf)
 
 ---
 ## Track C: Control and Estimation
