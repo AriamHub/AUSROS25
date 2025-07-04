@@ -27,7 +27,7 @@ Presented by Donald Dansereau and Thierry Peynot
 
 * A1: [Sensing](SensingAndPerception/LecA1-Sensing.pdf)
 * A2: [Localisation and Mapping](SensingAndPerception/A2-LocalisationMapping.pdf)
-* A3: [Sensor Data Fusion]()
+* A3: [Sensor Data Fusion](SensingAndPerception/A3-SensorDataFusion.pdf)
 
 ---
 ## Track B: Reasoning and Planning
